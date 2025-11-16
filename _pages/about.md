@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://www.kddresearch.org>KDD</a> | <a href=https://caids.cs.ksu.edu>CAIDS</a> | <a href=https://cs.ksu.edu>CS</a> @ <a href=https://www.ksu.edu>KSU</a> • Previously <a href=https://ncsa.illinois.edu>NCSA</a> / <a href=https://siebelschool.illinois.edu>Illinois</a> / <a href=https://www.cs.jhu.edu>JHU</a>
+subtitle: <a href="https://www.kddresearch.org">KDD</a> | <a href="https://caids.cs.ksu.edu">CAIDS</a> | <a href="https://cs.ksu.edu">CS</a> @ <a href="https://www.ksu.edu">KSU</a> • Previously <a href="https://ncsa.illinois.edu">NCSA</a> / <a href="https://siebelschool.illinois.edu">Illinois</a> / <a href="https://www.cs.jhu.edu">JHU</a>
 
 profile:
   align: right
@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, thanks for stopping by! 👋🏼
 
-I’m a professor and associate director of graduate programs for the <a href=https://cs.ksu.edu>Computer Science department</a> in the <a href=https://engg.ksu.edu>Carl R. Ice College of Engineering</a> at <a href=https://www.ksu.edu>Kansas State University</a>.
+I’m a professor and associate director of graduate programs for the <a href="https://cs.ksu.edu">Computer Science department</a> in the <a href="https://engg.ksu.edu">Carl R. Ice College of Engineering</a> at <a href="https://www.ksu.edu">Kansas State University</a>.
 
 Our team is focused on solving challenging problems at the intersection of machine learning, representation, and reasoning with scientific fields such as applied biology, behavioral and cognitive neuroscience, and social media analytics.  Our research group, the Laboratory for Knowledge Discovery in Databases (KDD Lab), was one of the first established at the Center for Artificial Intelligence and Data Science (CAIDS), and has 16 Ph.D. alumni and over 70 master's alumni.
 
