@@ -51,6 +51,6 @@ scholar_userid: JQoJRcIAAAAJ # your Google Scholar ID
 # youtube_id: banazir # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: # can be png, svg, jpg
+  logo: https://github.com/banazir/banazir.github.io/blob/main/assets/img/github-88763333.png # can be png, svg, jpg
   title: KDD Research
   url: https://www.kddresearch.org
