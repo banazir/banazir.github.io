@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: KDD, CAIDS, CS at K-State
+subtitle: <a href=https://www.kddresearch.org>KDD</a> | <a href=https://caids.cs.ksu.edu>CAIDS</a> | <a href=https://cs.ksu.edu>CS</a> @ <a href=https://www.ksu.edu>KSU</a>
 
 profile:
   align: right
