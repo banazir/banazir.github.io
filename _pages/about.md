@@ -38,7 +38,7 @@ Hi, thanks for stopping by! 👋🏼
 
 I'm a professor and associate director of graduate programs for the [Computer Science department](https://cs.ksu.edu) in the [Carl R. Ice College of Engineering](https://engg.ksu.edu) at [Kansas State University](https://www.ksu.edu).
 
-Our team is focused on solving challenging problems at the intersection of machine learning, representation, and reasoning with scientific fields such as applied biology, behavioral and cognitive neuroscience, and social media analytics. Our research group, the [Laboratory for Knowledge Discovery in Databases (KDD Lab)](https://www.kddresearch.org), was one of the first established at the Center for Artificial Intelligence and Data Science (CAIDS), and has 16 Ph.D. alumni and over 70 master's alumni.
+Our team is focused on solving challenging problems at the intersection of machine learning, representation, and reasoning with scientific fields such as applied biology, behavioral and cognitive neuroscience, and social media analytics. Our research group, the [Laboratory for Knowledge Discovery in Databases (KDD Lab)](https://www.kddresearch.org), was one of the first established at the [Center for Artificial Intelligence and Data Science (CAIDS)](https://caids.cs.ksu.edu), and has [16 Ph.D. alumni and over 70 master's alumni](https://www.kddresearch.org/page/alumni).
 
 As a scientist, I'm more broadly interested in all aspects of machine learning and artificial intelligence, and particularly in learning representation, probabilistic reasoning, and neurosymbolic approaches to perception and learning for sequential tasks.
 
