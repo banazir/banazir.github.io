@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [KDD](https://www.kddresearch.org) | [CAIDS](https://caids.cs.ksu.edu) | [CS](https://cs.ksu.edu) @ [KSU](https://www.ksu.edu) • Previously [NCSA](https://ncsa.illinois.edu) / [Illinois](https://siebelschool.illinois.edu) / [JHU](https://www.cs.jhu.edu)
+subtitle: <a href="https://www.kddresearch.org">KDD</a> | <a href="https://caids.cs.ksu.edu">CAIDS</a> | <a href="https://cs.ksu.edu">CS</a> @ <a href="https://www.ksu.edu">KSU</a> • Previously <a href="https://ncsa.illinois.edu">NCSA</a> / <a href="https://siebelschool.illinois.edu">Illinois</a> / <a href="https://www.cs.jhu.edu">JHU</a>
 
 profile:
   align: right
@@ -27,15 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
----
-layout: about
-title: About
-permalink: /about/
----
-
 Hi, thanks for stopping by! 👋🏼
 
-I'm a professor and associate director of graduate programs for the [Computer Science department](https://cs.ksu.edu) in the [Carl R. Ice College of Engineering](https://engg.ksu.edu) at [Kansas State University](https://www.ksu.edu).
+I'm a professor and associate director of graduate programs for the <a href="https://cs.ksu.edu">Computer Science department</a> in the <a href="https://engg.ksu.edu">Carl R. Ice College of Engineering</a> at <a href="https://www.ksu.edu">Kansas State University</a>.
 
 Our team is focused on solving challenging problems at the intersection of machine learning, representation, and reasoning with scientific fields such as applied biology, behavioral and cognitive neuroscience, and social media analytics. Our research group, the Laboratory for Knowledge Discovery in Databases (KDD Lab), was one of the first established at the Center for Artificial Intelligence and Data Science (CAIDS), and has 16 Ph.D. alumni and over 70 master's alumni.
 
@@ -46,6 +40,5 @@ Previously, I was one of the founding members of the ML research division of the
 I also worked at the Beckman Institute on ML and AI approaches for immersive training and crisis management tasks. Before that, I studied applied math and CS at Johns Hopkins University, where I completed my B.S. in Mathematical Sciences (now Applied Math and Statistics) and Computer Science and my M.S. in Computer Science, working on research in sequence-to-sequence models for protein secondary fold prediction, information integration and retrieval in neuroscience, and virus detection.
 
 I have served on the organizing committees of AAAI and KDD, and on the program committees of KDD, AAAI, ICML, and UAI. Meanwhile, I have also organized over a dozen workshops at IJCAI, AAAI, KDD, and UAI.
-
 
 In my spare time, I enjoy traveling with my family, reading and writing for leisure, watching movies, and occasional outdoor activities such as walking and hiking.
